@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @saidbanawir
-- 👀 I’m interested in frontend
+MADURA SWASTA
 
 <!---
 saidbanawir/saidbanawir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
